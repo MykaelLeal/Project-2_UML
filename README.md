@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1OERCr6ziNSFyGP6rNW8AKVA8CjEohDlb/view?usp=shari
 
 # Diagrama de componentes:
 
-https://miro.com/welcomeonboard/am1QUmEyM1NhYTliZkhjMjBvY05Bc3NjMWNhRmFjYTZqZlAxcTMyOUFRVVY3U0V0TEwyMWFBS1B4Y1RLbmR6YXwzNDU4NzY0NTM4MDgxMDE0ODkxfDI=?share_link_id=633391159005 
+https://lucid.app/lucidchart/06afd841-885b-4ee1-9325-f0ec276a5c08/edit?view_items=LyOL03kFBC3V%2CAAOLCbfUAsv.&invitationId=inv_8911ce92-7dc0-42ec-92a8-5ceb74c1e574 
 
 # Diagrama de Pacotes: 
 
